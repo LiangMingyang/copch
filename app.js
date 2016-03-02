@@ -19,11 +19,13 @@
       {
         image: "images/news/img1.jpg",
         url: 'http://www.chinawestern.org/newsread.asp?NewsID=6272',
-        text: "医疗扶贫项目正式签约"
+        text: "医疗扶贫项目正式签约",
+        index: 0
       }, {
         image: "images/news/img2.jpg",
         url: 'http://www.chinawestern.org/newsread.asp?NewsID=6269',
-        text: "中国西部发展促进会慰问驻云南边防官兵"
+        text: "中国西部发展促进会慰问驻云南边防官兵",
+        index: 1
       }
     ];
     $scope.news_list = [
